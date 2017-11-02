@@ -1,0 +1,20 @@
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\bin\Debug\MultiFunction Browser.exe.config
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\bin\Debug\MultiFunction Browser.exe
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\bin\Debug\MultiFunction Browser.pdb
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\obj\Debug\MultiFunction Browser.csprojResolveAssemblyReference.cache
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\obj\Debug\MultiFunction_Browser.MainWindow.resources
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\obj\Debug\MultiFunction_Browser.OptionsDialogue.resources
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\obj\Debug\MultiFunction_Browser.Properties.Resources.resources
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\obj\Debug\MultiFunction Browser.csproj.GenerateResource.Cache
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\obj\Debug\MultiFunction Browser.exe
+C:\Users\erikg\Desktop\Senior Project\MultiFunction Browser\obj\Debug\MultiFunction Browser.pdb
+C:\Users\Erik\Desktop\MultiFunction Browser\bin\Debug\MultiFunction Browser.exe.config
+C:\Users\Erik\Desktop\MultiFunction Browser\bin\Debug\MultiFunction Browser.exe
+C:\Users\Erik\Desktop\MultiFunction Browser\bin\Debug\MultiFunction Browser.pdb
+C:\Users\Erik\Desktop\MultiFunction Browser\obj\Debug\MultiFunction Browser.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\MultiFunction Browser\obj\Debug\MultiFunction_Browser.MainWindow.resources
+C:\Users\Erik\Desktop\MultiFunction Browser\obj\Debug\MultiFunction_Browser.OptionsDialogue.resources
+C:\Users\Erik\Desktop\MultiFunction Browser\obj\Debug\MultiFunction_Browser.Properties.Resources.resources
+C:\Users\Erik\Desktop\MultiFunction Browser\obj\Debug\MultiFunction Browser.csproj.GenerateResource.Cache
+C:\Users\Erik\Desktop\MultiFunction Browser\obj\Debug\MultiFunction Browser.exe
+C:\Users\Erik\Desktop\MultiFunction Browser\obj\Debug\MultiFunction Browser.pdb
